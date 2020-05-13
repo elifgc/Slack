@@ -6,6 +6,13 @@ public class CreateChanel {
 
         System.out.println("hello");
         //uhuhhhhuuuuuu
+        
+        String s= "a";
+if(s.contains("a")){
+    System.out.println("contains");
+}else{
+    System.out.println("not");
+}
 
     }
 }
