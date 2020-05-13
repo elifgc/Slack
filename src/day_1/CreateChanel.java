@@ -8,11 +8,11 @@ public class CreateChanel {
         //uhuhhhhuuuuuu
         
         String s= "a";
-if(s.contains("a")){
+    if(s.contains("a")){
     System.out.println("contains");
-}else{
+    }else{
     System.out.println("not");
-}
+    }
 
         int x=0;
         if (x==0){
