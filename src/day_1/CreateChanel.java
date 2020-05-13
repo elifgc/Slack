@@ -7,5 +7,12 @@ public class CreateChanel {
         System.out.println("hello");
         //uhuhhhhuuuuuu
 
+        int x=0;
+        if (x==0){
+            System.out.println("equal");
+        }
+
+
     }
 }
+
